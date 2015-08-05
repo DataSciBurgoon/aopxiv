@@ -1,0 +1,32 @@
+{
+	"submitter": {
+		"firstName": "",
+		"lastName": "",
+		"email": ""
+	},
+	"bioassay": {
+		"assayName": "",
+		"assayManufacturer": "",
+		"type": "",
+		"species": "",
+		"origin": "",
+		"cellLineName": "",
+		"cellType": "",
+		"measuredEntity": "",
+		"measuredEntitySpecies": "",
+		"targetMacromolecule": "",
+		"targetMacromoleculeSpecies": "",
+		"target": "",
+		"targetSpecies": "",
+		"bioassaySpecification": "",
+		"physicalDetectionMethod": "",
+		"assayDesignMethod": "",
+		"assayFormat": "",
+		"pubchemAID": "",
+		"measureGroup": [
+			{"screenedEntity": "", "endpoint": {"type": "", "screeningConcentration": "", "value": ""} },
+			{"screenedEntity": "", "endpoint": {"type": "", "screeningConcentration": "", "value": ""} },
+			{"screenedEntity": "", "endpoint": {"type": "", "screeningConcentration": "", "value": ""} },
+		]
+	}
+}

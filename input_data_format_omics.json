@@ -1,0 +1,22 @@
+{
+	"submitter": {
+		"firstName": "",
+		"lastName": "",
+		"email": ""
+	},
+	"bioassay": {
+		"type": "",
+		"bioassaySpecification": "",
+		"physicalDetectionMethod": "",
+		"assayDesignMethod": "",
+		"assayFormat": "",
+		"GEODatasetID": "",
+		"ArrayExpressDatasetID": "",
+		"screenedEntity": "",
+		"measureGroup": [
+			{"screenedEntity": "", "measuredEntity": "", "targetMacromolecule": "","endpoint": {"type": "", "screeningConcentration": "", "value": ""} },
+			{"screenedEntity": "", "measuredEntity": "", "targetMacromolecule": "","endpoint": {"type": "", "screeningConcentration": "", "value": ""} },
+			{"screenedEntity": "", "measuredEntity": "", "targetMacromolecule": "","endpoint": {"type": "", "screeningConcentration": "", "value": ""} },
+		]
+	}
+}
