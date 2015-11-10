@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/18586/DataSciBurgoon/aopxiv.svg)](https://zenodo.org/badge/latestdoi/18586/DataSciBurgoon/aopxiv)
+
 # README for input\_data\_format.json and input\_data\_format_omics.json
 The input files are in the JSON format. All entries under "bioassay" require values from the Bioassay Ontology (BAO).
 Examples are included in this file, and example files are also included in this directory.
